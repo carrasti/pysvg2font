@@ -1,0 +1,1 @@
+Directory where to output scss files which will be used by sass/compass to generate css files
